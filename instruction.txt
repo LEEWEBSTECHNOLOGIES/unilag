@@ -1,0 +1,7 @@
+Login Details
+for admin
+username: admin
+password: 123
+for student:
+registration number: 10806121
+password: 123
